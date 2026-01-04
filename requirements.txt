@@ -1,0 +1,7 @@
+nsepython
+nsepythonserver
+pandas
+numpy
+yfinance
+python-telegram-bot
+telegram
